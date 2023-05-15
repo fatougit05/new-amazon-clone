@@ -13,7 +13,7 @@ export default function Home({ products }: Props) {
     <>
       <Head>
         <title>Amazon 2.0</title>
-        
+        <meta name="google-site-verification" content="yteTfOkLyZXimr_YwB22nwrtDXUUL4I-qWykqpKEsTk" />
       </Head>
       <main className="w-full bg-[#E3E6E6]">
         <Banner />
