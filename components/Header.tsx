@@ -37,7 +37,7 @@ const Header = () => {
         {/* ============= Image Start here =========== */}
         <Link href="/">
           <div className="headerHover">
-            <Image className="w-24 mt-2" src={logo} alt="logoImage" />
+            <Image className="w- mt-2" src={logo} alt="logoImage" />
           </div>
         </Link>
         {/* ============= Image End here ============= */}
